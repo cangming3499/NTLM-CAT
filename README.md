@@ -1,5 +1,5 @@
 # NTLM-CAT
-剥离mimikatz 中的 sekurlsa::msv 功能 , 使用vs2013 创建
+剥离mimikatz 中的 sekurlsa::msv 功能 , 使用vs2013 创建,不支持32位windows 系统
 
 # 以下系统亲测可用：
 ### win7 x64
